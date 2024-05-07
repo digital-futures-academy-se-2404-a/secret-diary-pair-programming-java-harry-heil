@@ -7,7 +7,6 @@ bin/
 out/
 
 # IDE-specific files
-.idea/
 *.iml
 *.ipr
 *.iws
